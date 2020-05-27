@@ -34,4 +34,4 @@ jobs:
       run: go build -v ./backend/Anov-Chat
 
     - name: Test
-      run: go test -v .
+      run: go test -v ./backend/Anov-Chat
